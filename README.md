@@ -3,12 +3,12 @@
 AI-powered internship and mentor management platform built using Python, FastAPI, LangChain, and Streamlit.
 
 InternFlow AI automates internship workflow management by generating structured project plans, creating internship tasks, and intelligently matching interns with mentors based on skills and expertise from uploaded Excel datasets.
----
+
 ## Demo Video
 
 https://github.com/user-attachments/assets/e1daf754-88c5-4599-b94b-8392bb0948e0
----
 
+---
 # ✨ Features
 
 * 📂 Upload Excel datasets containing interns and mentors
