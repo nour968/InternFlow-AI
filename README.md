@@ -6,7 +6,7 @@ InternFlow AI automates internship workflow management by generating structured 
 ---
 ## Demo Video
 
-[![Watch the demo](https://github.com/user-attachments/assets/e1daf754-88c5-4599-b94b-8392bb0948e0)]
+(https://github.com/user-attachments/assets/e1daf754-88c5-4599-b94b-8392bb0948e0)
 ---
 
 # ✨ Features
